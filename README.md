@@ -7,6 +7,8 @@ Some AI study materials will be shared here. Hope they may help you to step into
 
 长期慢更，欢迎有兴趣的人一起添砖加瓦。
 
+<br/>
+
 ## 知识储备
 
 ### 编程：
@@ -21,6 +23,8 @@ Some AI study materials will be shared here. Hope they may help you to step into
 
 ## 入门教材
 
+<br/>
+
 ### 视频
 
 建议以网课的视频入门，相比书籍，精心设计的网课视频讲解，更加生动、易于坚持，建议按顺序观看，可以适当调整播放速度。
@@ -31,7 +35,9 @@ Some AI study materials will be shared here. Hope they may help you to step into
 
 #### 李飞飞的深度学习（视觉）：
 
-[斯坦福csc231n（2017春）](http://cs231n.stanford.edu/2017/syllabus)    
+[斯坦福csc231n（2017春）](http://cs231n.stanford.edu/2017/syllabus) 
+
+<br/>
 
 ## 下集预告
 
