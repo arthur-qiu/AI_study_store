@@ -21,9 +21,9 @@ Some AI study materials will be shared here. Hope they may help you to step into
 
 微积分、线性代数、概率与统计、最优化、信息论等，越偏理论的研究对数学方面要求越高
 
-## 入门教材
-
 <br/>
+
+## 入门教材
 
 ### 视频
 
@@ -41,4 +41,4 @@ Some AI study materials will be shared here. Hope they may help you to step into
 
 ## 下集预告
 
-接下来打算推荐一些比较经典的paper，会带上一些个人导读
+看完以上的视频，你大概对这个领域有了一个初步的了解，如果你对这个领域感兴趣，想做一些研究，差不多可以直接开始学术论文的研读，来找寻自己适合的方向。接下来打算推荐一些比较经典的paper，会带上一些个人导读。虽然读英文的学术论文对初学者是一件很辛苦的事情，但对一个合格的researcher这是一条必经之路。
