@@ -15,7 +15,6 @@ Some AI study materials will be shared here. Hope they may help you to step into
 
 最好同时掌握C++。Opencv用C++编写，对Python有较好的支持，在计算机视觉方面有非常广泛的应用。
 
-
 ###数学：
 
 微积分、线性代数、概率与统计、最优化、信息论等，越偏理论的研究对数学方面要求越高
@@ -29,9 +28,10 @@ Some AI study materials will be shared here. Hope they may help you to step into
 ####吴恩达的机器学习：
 
 [B站中英文版](https://www.bilibili.com/video/av9912938/)
+
 ####李飞飞的深度学习（视觉）：
 
-[斯坦福csc231n（2017春）](http://cs231n.stanford.edu/2017/syllabus)
+[斯坦福csc231n（2017春）](http://cs231n.stanford.edu/2017/syllabus)    
 
 ##下集预告
 
