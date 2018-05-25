@@ -9,7 +9,7 @@
 
 ### 入门：
 
-####UCL的强化学习课程，比较容易理解，适于入门，由DeepMind的David Silver授课
+#### UCL的强化学习课程，比较容易理解，适于入门，由DeepMind的David Silver授课
 
 [课程主页](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 
@@ -17,7 +17,7 @@
 
 ### 提高：
 
-####伯克利的CS294，更加偏重实践，建议先有一定基础
+#### 伯克利的CS294，更加偏重实践，建议先有一定基础
 
 [伯克利CS294（2017春）](http://rll.berkeley.edu/deeprlcoursesp17/)
 
@@ -29,7 +29,7 @@
 
 [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
-####一份强化学习的中文教程，非常生动易于理解，感谢莫烦大佬精心编写
+#### 一份强化学习的中文教程，非常生动易于理解，感谢莫烦大佬精心编写
 
 [教程主页](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 
