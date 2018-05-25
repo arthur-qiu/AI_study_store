@@ -29,7 +29,7 @@
 
 [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
-#### 一份强化学习的中文教程，非常生动易于理解，感谢莫烦大佬精心编写
+#### 一份强化学习的中文教程，非常生动，里面还有一些简单的例子和代码，感谢莫烦大佬精心编写
 
 [教程主页](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 
