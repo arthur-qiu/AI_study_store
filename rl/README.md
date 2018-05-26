@@ -33,6 +33,10 @@
 
 [教程主页](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 
+#### 知乎上强化学习的中文专栏，包含了入门和进阶以及最新进展相关的文章
+
+[强化学习大讲堂](https://zhuanlan.zhihu.com/sharerl)
+
 <br/>
 
 ## 推荐论文
